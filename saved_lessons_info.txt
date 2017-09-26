@@ -1,0 +1,776 @@
+?pg=task&num_unit=8&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_8_1.mp4
+___________________
+?pg=task&num_unit=8&num_less=10
+10. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=8&num_less=19
+19. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_8_3.mp4
+___________________
+?pg=task&num_unit=8&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_8_1.mp4
+___________________
+?pg=task&num_unit=8&num_less=11
+11. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=8&num_less=20
+20. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_8_1.mp4
+___________________
+?pg=task&num_unit=8&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_8_2.mp4
+___________________
+?pg=task&num_unit=8&num_less=12
+12. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=8&num_less=21
+21. "Практика англ"
+not a video
+___________________
+?pg=task&num_unit=8&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_8_2.mp4
+___________________
+?pg=task&num_unit=8&num_less=13
+13. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=8&num_less=22
+22. "Практика рус"
+not a video
+___________________
+?pg=task&num_unit=8&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_8_1.mp4
+___________________
+?pg=task&num_unit=8&num_less=14
+14. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_8_3.mp4
+___________________
+?pg=task&num_unit=8&num_less=23
+23. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=8&num_less=6
+6. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_8_2_n.mp4
+___________________
+?pg=task&num_unit=8&num_less=15
+15. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_8_3.mp4
+___________________
+?pg=task&num_unit=8&num_less=7
+7. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_8_1.mp4
+___________________
+?pg=task&num_unit=8&num_less=16
+16. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_8_2.mp4
+___________________
+?pg=task&num_unit=8&num_less=8
+8. "Практика англ"
+not a video
+___________________
+?pg=task&num_unit=8&num_less=17
+17. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_8_4.mp4
+___________________
+?pg=task&num_unit=8&num_less=9
+9. "Практика рус"
+not a video
+___________________
+?pg=task&num_unit=8&num_less=18
+18. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_8_4.mp4
+___________________
+?pg=task&num_unit=4&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_4_1.mp4
+___________________
+?pg=task&num_unit=4&num_less=9
+9. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=4&num_less=17
+17. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_4_4.mp4
+___________________
+?pg=task&num_unit=4&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_4_1.mp4
+___________________
+?pg=task&num_unit=4&num_less=10
+10. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=4&num_less=18
+18. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_4_3.mp4
+___________________
+?pg=task&num_unit=4&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_4_2.mp4
+___________________
+?pg=task&num_unit=4&num_less=11
+11. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=4&num_less=19
+19. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=4&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_4_2.mp4
+___________________
+?pg=task&num_unit=4&num_less=12
+12. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=4&num_less=20
+20. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_4_1.mp4
+___________________
+?pg=task&num_unit=4&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_4_1.mp4
+___________________
+?pg=task&num_unit=4&num_less=13
+13. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_4_3.mp4
+___________________
+?pg=task&num_unit=4&num_less=21
+21. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_4_2.mp4
+___________________
+?pg=task&num_unit=4&num_less=6
+6. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_4_1.mp4
+___________________
+?pg=task&num_unit=4&num_less=14
+14. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_4_3.mp4
+___________________
+?pg=task&num_unit=4&num_less=22
+22. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_4_3.mp4
+___________________
+?pg=task&num_unit=4&num_less=7
+7. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_4_2.mp4
+___________________
+?pg=task&num_unit=4&num_less=15
+15. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_4_2.mp4
+___________________
+?pg=task&num_unit=4&num_less=8
+8. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_4_3.mp4
+___________________
+?pg=task&num_unit=4&num_less=16
+16. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_4_4.mp4
+___________________
+?pg=task&num_unit=3&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_3_1.mp4
+___________________
+?pg=task&num_unit=3&num_less=9
+9. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=3&num_less=17
+17. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_3_3.mp4
+___________________
+?pg=task&num_unit=3&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_3_1.mp4
+___________________
+?pg=task&num_unit=3&num_less=10
+10. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=3&num_less=18
+18. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=3&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_3_2.mp4
+___________________
+?pg=task&num_unit=3&num_less=11
+11. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=3&num_less=19
+19. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_3_1.mp4
+___________________
+?pg=task&num_unit=3&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_3_2.mp4
+___________________
+?pg=task&num_unit=3&num_less=12
+12. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_3_3.mp4
+___________________
+?pg=task&num_unit=3&num_less=20
+20. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_3_2.mp4
+___________________
+?pg=task&num_unit=3&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_3_1.mp4
+___________________
+?pg=task&num_unit=3&num_less=13
+13. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_3_3.mp4
+___________________
+?pg=task&num_unit=3&num_less=21
+21. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_3_3.mp4
+___________________
+?pg=task&num_unit=3&num_less=6
+6. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_3_1.mp4
+___________________
+?pg=task&num_unit=3&num_less=14
+14. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_3_2.mp4
+___________________
+?pg=task&num_unit=3&num_less=22
+22. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_3_4.mp4
+___________________
+?pg=task&num_unit=3&num_less=7
+7. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_3_2_.mp4
+___________________
+?pg=task&num_unit=3&num_less=15
+15. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_3_4.mp4
+___________________
+?pg=task&num_unit=3&num_less=23
+23. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=3&num_less=8
+8. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=3&num_less=16
+16. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_3_4.mp4
+___________________
+?pg=task&num_unit=1&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_1_1.mp4
+___________________
+?pg=task&num_unit=1&num_less=8
+8. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=1&num_less=15
+15. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_1_3.mp4
+___________________
+?pg=task&num_unit=1&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_1_1.mp4
+___________________
+?pg=task&num_unit=1&num_less=9
+9. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=1&num_less=16
+16. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=1&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_1_2.mp4
+___________________
+?pg=task&num_unit=1&num_less=10
+10. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_1_3.mp4
+___________________
+?pg=task&num_unit=1&num_less=17
+17. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_1_2.mp4
+___________________
+?pg=task&num_unit=1&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_1_2.mp4
+___________________
+?pg=task&num_unit=1&num_less=11
+11. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_1_3.mp4
+___________________
+?pg=task&num_unit=1&num_less=18
+18. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_1_3.mp4
+___________________
+?pg=task&num_unit=1&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_1_1.mp4
+___________________
+?pg=task&num_unit=1&num_less=12
+12. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_1_2.mp4
+___________________
+?pg=task&num_unit=1&num_less=19
+19. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=1&num_less=6
+6. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_1_1.mp4
+___________________
+?pg=task&num_unit=1&num_less=13
+13. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_1_4.mp4
+___________________
+?pg=task&num_unit=1&num_less=7
+7. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_1_2.mp4
+___________________
+?pg=task&num_unit=1&num_less=14
+14. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_1_4.mp4
+___________________
+?pg=task&num_unit=7&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_7_1.mp4
+___________________
+?pg=task&num_unit=7&num_less=11
+11. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=7&num_less=21
+21. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_7_2.mp4
+___________________
+?pg=task&num_unit=7&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_7_1.mp4
+___________________
+?pg=task&num_unit=7&num_less=12
+12. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=7&num_less=22
+22. "Практика англ"
+not a video
+___________________
+?pg=task&num_unit=7&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_7_2.mp4
+___________________
+?pg=task&num_unit=7&num_less=13
+13. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=7&num_less=23
+23. "Практика рус"
+not a video
+___________________
+?pg=task&num_unit=7&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_7_2.mp4
+___________________
+?pg=task&num_unit=7&num_less=14
+14. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_7_3.mp4
+___________________
+?pg=task&num_unit=7&num_less=24
+24. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=7&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_7_1.mp4
+___________________
+?pg=task&num_unit=7&num_less=15
+15. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_7_3.mp4
+___________________
+?pg=task&num_unit=7&num_less=25
+25. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_7_1.mp4
+___________________
+?pg=task&num_unit=7&num_less=6
+6. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_7_2.mp4
+___________________
+?pg=task&num_unit=7&num_less=16
+16. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_7_2.mp4
+___________________
+?pg=task&num_unit=7&num_less=26
+26. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_7_2.mp4
+___________________
+?pg=task&num_unit=7&num_less=7
+7. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_7_1.mp4
+___________________
+?pg=task&num_unit=7&num_less=17
+17. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_7_4.mp4
+___________________
+?pg=task&num_unit=7&num_less=27
+27. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_7_3.mp4
+___________________
+?pg=task&num_unit=7&num_less=8
+8. "Практика англ"
+not a video
+___________________
+?pg=task&num_unit=7&num_less=18
+18. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_7_4.mp4
+___________________
+?pg=task&num_unit=7&num_less=28
+28. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=7&num_less=9
+9. "Практика рус"
+not a video
+___________________
+?pg=task&num_unit=7&num_less=19
+19. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_7_3.mp4
+___________________
+?pg=task&num_unit=7&num_less=10
+10. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=7&num_less=20
+20. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_7_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_5_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=10
+10. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=5&num_less=19
+19. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_5_3.mp4
+___________________
+?pg=task&num_unit=5&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_5_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=11
+11. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=5&num_less=20
+20. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_5_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_5_2.mp4
+___________________
+?pg=task&num_unit=5&num_less=12
+12. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=5&num_less=21
+21. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_5_2.mp4
+___________________
+?pg=task&num_unit=5&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_5_2.mp4
+___________________
+?pg=task&num_unit=5&num_less=13
+13. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_5_3.mp4
+___________________
+?pg=task&num_unit=5&num_less=22
+22. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=5&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_5_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=14
+14. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_5_3.mp4
+___________________
+?pg=task&num_unit=5&num_less=23
+23. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_5_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=6
+6. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_5_2.mp4
+___________________
+?pg=task&num_unit=5&num_less=15
+15. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_5_2.mp4
+___________________
+?pg=task&num_unit=5&num_less=24
+24. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_5_2.mp4
+___________________
+?pg=task&num_unit=5&num_less=7
+7. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_5_4.mp4
+___________________
+?pg=task&num_unit=5&num_less=16
+16. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_5_3.mp4
+___________________
+?pg=task&num_unit=5&num_less=25
+25. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_5_3.mp4
+___________________
+?pg=task&num_unit=5&num_less=8
+8. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_5_1.mp4
+___________________
+?pg=task&num_unit=5&num_less=17
+17. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_5_4.mp4
+___________________
+?pg=task&num_unit=5&num_less=26
+26. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=5&num_less=9
+9. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=5&num_less=18
+18. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_5_4.mp4
+___________________
+?pg=task&num_unit=6&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_6_1.mp4
+___________________
+?pg=task&num_unit=6&num_less=11
+11. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=6&num_less=21
+21. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_6_2.mp4
+___________________
+?pg=task&num_unit=6&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_6_1.mp4
+___________________
+?pg=task&num_unit=6&num_less=12
+12. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=6&num_less=22
+22. "Практика англ"
+not a video
+___________________
+?pg=task&num_unit=6&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_6_2.mp4
+___________________
+?pg=task&num_unit=6&num_less=13
+13. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=6&num_less=23
+23. "Практика рус"
+not a video
+___________________
+?pg=task&num_unit=6&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_6_2.mp4
+___________________
+?pg=task&num_unit=6&num_less=14
+14. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_6_3.mp4
+___________________
+?pg=task&num_unit=6&num_less=24
+24. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=6&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_6_1.mp4
+___________________
+?pg=task&num_unit=6&num_less=15
+15. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_6_3.mp4
+___________________
+?pg=task&num_unit=6&num_less=25
+25. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_6_1.mp4
+___________________
+?pg=task&num_unit=6&num_less=6
+6. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_6_2.mp4
+___________________
+?pg=task&num_unit=6&num_less=16
+16. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_6_2.mp4
+___________________
+?pg=task&num_unit=6&num_less=26
+26. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_6_2.mp4
+___________________
+?pg=task&num_unit=6&num_less=7
+7. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_6_1.mp4
+___________________
+?pg=task&num_unit=6&num_less=17
+17. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_6_4.mp4
+___________________
+?pg=task&num_unit=6&num_less=27
+27. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_6_3.mp4
+___________________
+?pg=task&num_unit=6&num_less=8
+8. "Практика англ"
+not a video
+___________________
+?pg=task&num_unit=6&num_less=18
+18. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_6_4.mp4
+___________________
+?pg=task&num_unit=6&num_less=28
+28. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=6&num_less=9
+9. "Практика рус"
+not a video
+___________________
+?pg=task&num_unit=6&num_less=19
+19. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_6_3.mp4
+___________________
+?pg=task&num_unit=6&num_less=10
+10. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=6&num_less=20
+20. "Тренировка"
+http://cabinet.gettrenings.ru/upload/video/esa_gr_drill_6_1.mp4
+___________________
+?pg=task&num_unit=2&num_less=1
+1. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_2_1.mp4
+___________________
+?pg=task&num_unit=2&num_less=10
+10. "Аудирование"
+not a video
+___________________
+?pg=task&num_unit=2&num_less=19
+19. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_2_3.mp4
+___________________
+?pg=task&num_unit=2&num_less=2
+2. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_2_1.mp4
+___________________
+?pg=task&num_unit=2&num_less=11
+11. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=2&num_less=20
+20. «Перевод»
+not a video
+___________________
+?pg=task&num_unit=2&num_less=3
+3. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/w_2_2_n.mp4
+___________________
+?pg=task&num_unit=2&num_less=12
+12. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=2&num_less=21
+21. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_2_1.mp4
+___________________
+?pg=task&num_unit=2&num_less=4
+4. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_2_2.mp4
+___________________
+?pg=task&num_unit=2&num_less=13
+13. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_2_3.mp4
+___________________
+?pg=task&num_unit=2&num_less=22
+22. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_2_2.mp4
+___________________
+?pg=task&num_unit=2&num_less=5
+5. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/gram_2_numb.mp4
+___________________
+?pg=task&num_unit=2&num_less=14
+14. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_2_3.mp4
+___________________
+?pg=task&num_unit=2&num_less=23
+23. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_2_3.mp4
+___________________
+?pg=task&num_unit=2&num_less=6
+6. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_2_1.mp4
+___________________
+?pg=task&num_unit=2&num_less=15
+15. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_2_2.mp4
+___________________
+?pg=task&num_unit=2&num_less=24
+24. «Скорость речи»
+http://cabinet.gettrenings.ru/upload/video/esa_speed_2_4.mp4
+___________________
+?pg=task&num_unit=2&num_less=7
+7. «Грамматика»
+http://cabinet.gettrenings.ru/upload/video/esa_gram_2_2.mp4
+___________________
+?pg=task&num_unit=2&num_less=16
+16. «Новые слова»
+http://cabinet.gettrenings.ru/upload/video/esa_w_2_4.mp4
+___________________
+?pg=task&num_unit=2&num_less=25
+25. «Консультация»
+not a video
+___________________
+?pg=task&num_unit=2&num_less=8
+8. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_2_1.mp4
+___________________
+?pg=task&num_unit=2&num_less=17
+17. «Словосочетания»
+http://cabinet.gettrenings.ru/upload/video/esa_ph_2_4.mp4
+___________________
+?pg=task&num_unit=2&num_less=9
+9. "Аудиотекст"
+not a video
+___________________
+?pg=task&num_unit=2&num_less=18
+18. «Предложения»
+http://cabinet.gettrenings.ru/upload/video/esa_sent_2_3.mp4
+___________________
